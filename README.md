@@ -35,3 +35,6 @@ Transitions: Smooth animation for elements like buttons and images to enhance th
 # Live Demo / Preview
 
 To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action. Watch the demo to see the project's features in real-time!
+
+![Starbucks-GoogleChrome2024-10-2113-38-25-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b041c78c-035e-4c74-b11e-172013086f84)
+
